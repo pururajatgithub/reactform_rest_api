@@ -8,8 +8,11 @@ The database used is sqllite3.
 
 Api is created on Django-Rest-Framework
 
+To run React app
 
-To run this You need have node installed in your system.
+1. You need have node installed in your system.
+	
+
 
 
 
