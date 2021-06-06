@@ -15,5 +15,11 @@ To run React app
 	```cd formapp```
 
 
+	```npm install```
+
+
+	```npm start```
+	
+
 
 
