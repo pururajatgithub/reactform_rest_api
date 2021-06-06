@@ -11,6 +11,7 @@ Api is created on Django-Rest-Framework
 To run React app
 
 1. You need have node installed in your system.
+2. Then
 	```cd formapp```
 
 
