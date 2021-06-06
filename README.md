@@ -22,7 +22,7 @@ To run React app
 	
 
 
-Your frontend/React-app is now running and can be accesed thru https://localhost:3000 on your brouwser
+Your frontend/React-app is now running and can be accesed thru https://localhost:3000 on your browser
 
 
 Open another terminal and migrate to this directory
